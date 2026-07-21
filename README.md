@@ -13,3 +13,4 @@ Build a strong Java Backend portfolio by solving problems and creating mini-proj
 | Day | Topic | Status |
 |-----|-------|--------|
 | 1 | Reverse String | ✅ |
+| 2 | Palindrome Checker | ✅ |
