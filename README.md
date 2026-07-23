@@ -15,3 +15,4 @@ Build a strong Java Backend portfolio by solving problems and creating mini-proj
 | 1 | Reverse String | ✅ |
 | 2 | Palindrome Checker | ✅ |
 | 3 | Anagram Checker (Arrays & Sorting) | ✅ |
+| 4 | Character Frequency (HashMap) | ✅ |
